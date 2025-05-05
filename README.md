@@ -2,6 +2,12 @@
 
 A modern and responsive web application that allows users to calculate loan payments and view amortization schedules. It also fetches real-time exchange rates to support multi-currency loan comparison.
 
+## 🚀 Live Demo
+
+🔗 Click here to view the live app
+
+https://loan-calculator-madebyadi.netlify.app/
+
 ## 🚀 Features
 
 - 💸 Loan EMI and amortization schedule calculator

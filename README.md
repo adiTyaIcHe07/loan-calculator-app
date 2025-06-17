@@ -6,7 +6,7 @@ A modern and responsive web application that allows users to calculate loan paym
 
 🔗 Click here to view the live app
 
-https://loan-calculator-madebyadi.netlify.app/
+loan-calculator-apk.netlify.app
 
 ## 🚀 Features
 
